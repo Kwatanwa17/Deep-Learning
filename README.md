@@ -1,2 +1,2 @@
-# Machine-Learning
-Machine Learning Coursera Repo
+# Deep Learning
+Deep Learning Coursera Repo
